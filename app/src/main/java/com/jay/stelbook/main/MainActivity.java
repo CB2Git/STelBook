@@ -108,6 +108,7 @@ public class MainActivity extends BaseActivity implements NavigationView.OnNavig
                 break;
             //修改用户头像
             case R.id.main_user_icon:
+                ToastUtil.show(this, "靠你啦，骚年~~");
                 break;
         }
     }
