@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/main_modify_password"
+            android:icon="@drawable/person"
+            android:title="密码修改" />
+        <item
+            android:id="@+id/main_logout"
+            android:icon="@drawable/cancel"
+            android:title="注销登陆" />
+        <item
+            android:id="@+id/main_quit_app"
+            android:icon="@drawable/quit"
+            android:title="退出应用" />
+        <item
+            android:id="@+id/main_about_developer"
+            android:icon="@drawable/about"
+            android:title="关于" />
+        <item
+            android:id="@+id/main_feedback"
+            android:icon="@drawable/feedback"
+            android:title="意见反馈" />
+    </group>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">小Q通讯录</string>
+    <string name="app_key">a8ada64424a04030ed70127cf140d424</string>
+    <string name="password">密码</string>
+    <string name="login">登 录</string>
+    <string name="user_name">用户名</string>
+    <string name="click_here_register">没有账号?点我注册</string>
+    <string name="login_error">用户名或密码错误，登录失败</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="register">注册</string>
+    <string name="e_mail">E-mail地址</string>
+    <string name="double_click_back_exit">再按返回键退出</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="time_line">时光轴</string>
+    <string name="not_have_any_backup">您好像还没有创建备份</string>
+    <string name="search_contact">搜索联系人</string>
+    <string name="contact">联系人</string>
+    <string name="no_permission_read_contacts">没有读取联系人权限</string>
+</resources>
